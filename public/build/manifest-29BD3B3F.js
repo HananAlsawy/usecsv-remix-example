@@ -1,0 +1,1 @@
+window.__remixManifest={"entry":{"module":"/build/entry.client-DGWGCHLI.js","imports":["/build/_shared/chunk-GXHTEDRQ.js"]},"routes":{"root":{"id":"root","path":"","module":"/build/root-IFPWIE4C.js","hasAction":false,"hasLoader":false,"hasErrorBoundary":false}},"version":"29bd3b3f","url":"/build/manifest-29BD3B3F.js"};
